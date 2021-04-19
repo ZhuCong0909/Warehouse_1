@@ -1,0 +1,9 @@
+E:\demo_code\dapan\dapan\bin\Debug\dapan.exe.config
+E:\demo_code\dapan\dapan\bin\Debug\dapan.exe
+E:\demo_code\dapan\dapan\bin\Debug\dapan.pdb
+E:\demo_code\dapan\dapan\obj\Debug\dapan.csprojResolveAssemblyReference.cache
+E:\demo_code\dapan\dapan\obj\Debug\dapan.Form1.resources
+E:\demo_code\dapan\dapan\obj\Debug\dapan.Properties.Resources.resources
+E:\demo_code\dapan\dapan\obj\Debug\dapan.csproj.GenerateResource.Cache
+E:\demo_code\dapan\dapan\obj\Debug\dapan.exe
+E:\demo_code\dapan\dapan\obj\Debug\dapan.pdb
